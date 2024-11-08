@@ -1,0 +1,16 @@
+pytorch_lightning
+transformers
+Pillow
+tqdm
+ipdb
+numpy
+einop
+pyarrow
+sacred
+pandas
+timm
+ftfy
+torchvision
+torch
+datasets
+tensorboard
